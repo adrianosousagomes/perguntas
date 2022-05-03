@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:projeto_perguntas/resultado.dart';
 
 import 'questionario.dart';
+import 'resultado.dart';
 
 main() => runApp(PerguntaApp());
 
